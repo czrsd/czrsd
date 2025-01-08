@@ -27,4 +27,4 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=czrsd&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)‎  ‎ ‎ [![](https://visitcount.itsvg.in/api?id=czrsd&icon=1&color=1)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=czrsd&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
